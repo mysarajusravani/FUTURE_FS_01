@@ -1,0 +1,2 @@
+# No Python dependencies required
+# Frontend Project using HTML, CSS, JavaScript, Bootstrap
